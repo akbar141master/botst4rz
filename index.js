@@ -13,7 +13,7 @@ const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
 const BotName = 'MONSTER 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://www.youtube.com/channel/UC55ezJ-mYFw0x_XQ5nFq0Ag'; // Nama Instagramlu cok
+const instagramlu = 'https://www.instagram.com/akbar__ofc/'; // Nama Instagramlu cok
 const whatsapplu = '0819-4698-3575'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 const grupch1 = 'https://www.youtube.com/channel/UC55ezJ-mYFw0x_XQ5nFq0Ag'; // OFFICIAL GRUP LU 1
